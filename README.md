@@ -3,7 +3,7 @@
 *All credit to *cazz* <br>
 Check out his Github and follow [@cazz](https://github.com/cazzwastaken)<br>
 Sub to his Youtube Channel [here](https://www.youtube.com/@cazz) to see more about game hacking<br>
-
+#
 > [!NOTE]
 > Your offsets might be different from these ones so you are advised to dump them yourself.<br>
 > You can do that by following *cazz's* tutorial [here](https://www.youtube.com/watch?v=x0aRYH5StZI)<br>
@@ -169,7 +169,7 @@ constexpr ::std::ptrdiff_t set_abs_origin = 0x1EA790;
 
 </details>
 
-
+# Weapons
 <details>
 
 <summary>Weapon IDs</summary>
@@ -262,6 +262,7 @@ constexpr ::std::ptrdiff_t set_abs_origin = 0x1EA790;
 ```
 </details>
 
+# Skins
 <details>
 
 <summary>Skin IDs</summary>
@@ -320,3 +321,16 @@ You can go copy the whole list [here](https://totalcsgo.com/codes/skin-ids)<br>
 </details>
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+**valve pls return csgo*
